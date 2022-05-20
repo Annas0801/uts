@@ -1,0 +1,5 @@
+C:\devc++\uts pemrograman\uts4419\obj\Debug\net6.0\uts4419.csproj.AssemblyReference.cache
+C:\devc++\uts pemrograman\uts4419\obj\Debug\net6.0\uts4419.GeneratedMSBuildEditorConfig.editorconfig
+C:\devc++\uts pemrograman\uts4419\obj\Debug\net6.0\uts4419.AssemblyInfoInputs.cache
+C:\devc++\uts pemrograman\uts4419\obj\Debug\net6.0\uts4419.AssemblyInfo.cs
+C:\devc++\uts pemrograman\uts4419\obj\Debug\net6.0\uts4419.csproj.CoreCompileInputs.cache
